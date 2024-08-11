@@ -1,0 +1,11 @@
+#header {
+    background-color: rgb(44, 212, 44);
+    font-family: "Times New Roman";
+    color: white;
+    text-align: center;
+}
+
+.list {
+    font-size: 24px;
+    font-family: Verdana;
+}
